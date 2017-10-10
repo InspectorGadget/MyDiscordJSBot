@@ -1,0 +1,16 @@
+{
+  "name": "jsbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "InspectorGadget",
+  "license": "GNU 3.0",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
